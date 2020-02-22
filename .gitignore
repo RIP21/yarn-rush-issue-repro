@@ -46,6 +46,7 @@ jspm_packages/
 # Output of 'npm pack'
 *.tgz
 
+
 # Yarn Integrity file
 .yarn-integrity
 
@@ -61,3 +62,8 @@ jspm_packages/
 # Rush temporary files
 common/temp/
 **/.rush/temp/
+
+#IDE Stuff
+.history
+.idea
+.vscode
